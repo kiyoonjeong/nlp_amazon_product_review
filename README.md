@@ -5,3 +5,4 @@
 3. DL Model : BERT
 4. Sentiment Analysis : Extract 100 important words. Importance of the words are determined by TF-IDF score.
 5. Tools : Spark, Spark-NLP, Torch
+6. Environment : Google Colab
